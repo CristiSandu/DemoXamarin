@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Demo.Layouts">
+
+    <ScrollView>
+        <StackLayout Spacing="20"  Padding="10,0,10,0">
+           <!--Exemplu utilizare StackLayout Orizontal cu ScrollView -->
+            <ScrollView Orientation="Horizontal">
+                <StackLayout Orientation="Horizontal">
+                    <Button x:Name="testNavigation" Text="Test" Clicked="testNavigation_Clicked"/>
+                    <Button/>
+                    <Button/>
+                    <Switch HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
+                    <Button/>
+                    <Button/>
+                    <Button/>
+                </StackLayout>
+            </ScrollView>
+
+
+            <BoxView BackgroundColor="Black" HeightRequest="100"/>
+            <Entry Placeholder="Name .." HorizontalTextAlignment="Center" />
+            <Slider  />
+            <Label Text="Test de Labelaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" Padding="10,0,10,0"/>
+            <!--<Switch HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
+            <TimePicker />
+            <DatePicker/>
+            <ProgressBar x:Name ="progress Bar" IsVisible="True" />
+            <Picker />
+            <ActivityIndicator Color="Green" IsRunning="True"/>
+            <Editor />
+            <Stepper />
+            <Frame BackgroundColor="Blue"/>
+            <Button Text="Next Section"/>-->
+            <Frame BackgroundColor="Black" Margin="10">
+            <Image Source="floppy_disk.png" HeightRequest="100" BackgroundColor="White" WidthRequest="100" HorizontalOptions="Start" VerticalOptions="Start" />
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

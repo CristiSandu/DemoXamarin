@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Demo.Data_Binding.PopulateList">
+    <StackLayout>
+        <Entry x:Name="placeHolderName" Placeholder="Name.. " Text="{Binding Name}" />
+        <Button x:Name="save" Clicked="save_Clicked"/>
+        <Button x:Name="cancel" Clicked="cancel_Clicked"/>
+        <Switch x:Name="isSelected" IsToggled="{Binding Checked}"/>
+    </StackLayout>
+    
+</ContentPage>

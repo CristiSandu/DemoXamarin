@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tmOpybbfPCwjmcezstOUXCHaigoi+EDhEfGGB67YYwytL5rIdy9pYqPk3W0ImBQCyrqMbeGJ/9JHdCcE3AmLmg==",
+  "success": true,
+  "projectFilePath": "S:\\Cristi\\App-Xamarin\\Demo\\Demo\\Demo\\Demo.iOS\\Demo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cryst\\.nuget\\packages\\resizetizer.nt\\0.2.0\\resizetizer.nt.0.2.0.nupkg.sha512",
+    "C:\\Users\\cryst\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
