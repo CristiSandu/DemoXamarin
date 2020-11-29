@@ -30,13 +30,13 @@
     <AppXManifest Include="S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-29T17:20:46.806</Modified>
+      <Modified>2020-11-29T20:23:29.603</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\bin\x86\Debug\Demo.UWP.exe">
       <PackagePath>entrypoint\Demo.UWP.exe</PackagePath>
-      <Modified>2020-11-29T17:20:45.035</Modified>
+      <Modified>2020-11-29T20:23:28.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cryst\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.9\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -720,7 +720,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.dll">
       <PackagePath>Demo.dll</PackagePath>
-      <Modified>2020-11-29T17:22:21.492</Modified>
+      <Modified>2020-11-29T20:22:17.782</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cryst\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -891,11 +891,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-11-29T17:20:44.875</Modified>
+      <Modified>2020-11-29T20:23:27.925</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-11-29T17:20:44.875</Modified>
+      <Modified>2020-11-29T20:23:27.925</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -915,7 +915,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\bin\x86\Debug\Core\Demo.UWP.exe">
       <PackagePath>Demo.UWP.exe</PackagePath>
-      <Modified>2020-11-29T17:20:46.785</Modified>
+      <Modified>2020-11-29T20:23:29.576</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

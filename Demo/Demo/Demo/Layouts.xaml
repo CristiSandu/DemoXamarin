@@ -10,9 +10,9 @@
                 <StackLayout Orientation="Horizontal">
                     <Button x:Name="testNavigation" Text="Test" Clicked="testNavigation_Clicked"/>
                     <Button x:Name="goToAddInList" Text="TestObsColl" Clicked="goToAddInList_Clicked"/>
-                    <Button/>
+                    <Button x:Name="goToINotifyEx" Text="INotify" Clicked="goToINotifyEx_Clicked"/>
                     <Switch HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
-                    <Button/>
+                    <Button x:Name="APIExp" Text="API" Clicked="APIExp_Clicked"/>
                     <Button/>
                     <Button/>
                 </StackLayout>

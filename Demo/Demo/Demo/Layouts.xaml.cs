@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Demo.Data_Binding;
+using Demo.API;
+
 
 namespace Demo
 {
@@ -26,6 +28,16 @@ namespace Demo
         private async void goToAddInList_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new SamePage());
+        }
+
+        private async void goToINotifyEx_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new SamleBataBinding());
+        }
+
+        private async void APIExp_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new APIExp());
         }
     }
 }

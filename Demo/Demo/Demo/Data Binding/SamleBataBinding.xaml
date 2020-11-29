@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Demo.Models"
+             xmlns:converters="clr-namespace:Demo.Convertors"
+             x:Class="Demo.Data_Binding.SamleBataBinding"
+             BindingContext="{StaticResource loginView}">
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:ListElementModelINotify x:Key="loginView"/>
+            <converters:StringToColorConverter x:Key="stringToColor"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <!--TowWay Binding example-->
+            <StackLayout>
+                <Slider x:Name="slider" Minimum="0" Maximum="200"  Margin="2"/>
+                <Entry Margin="2" Text="{Binding Path=Value, Mode=TwoWay}" BindingContext="{x:Reference Name=slider}"/>
+            </StackLayout>
+            
+            <!--Binding INotify-->
+            <StackLayout>
+                <Entry Margin="2" Text="{Binding Path=Name, Mode=TwoWay}"/>
+                <Label Text="{Binding Path=Name, Mode=OneWay}" Margin="2"/>
+            </StackLayout>
+
+            <!--Ex Convertors in Binding-->
+            <StackLayout>
+                <Entry Margin="2" Text="{Binding Path=Name, Mode=TwoWay}"/>
+                <Label TextColor="{Binding Path=Name,Converter={StaticResource stringToColor}}" 
+                       Text="{Binding Path=Name,  Mode=OneWay}" Margin="2"/>
+            </StackLayout>
+
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

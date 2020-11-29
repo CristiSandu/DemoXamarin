@@ -17,3 +17,5 @@ S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\obj\Debug\netstandard2.0\XamlC.stamp
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\obj\Debug\netstandard2.0\Data Binding\ListElements.xaml.g.cs
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\obj\Debug\netstandard2.0\Data Binding\PopulateList.xaml.g.cs
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\obj\Debug\netstandard2.0\Data Binding\SamePage.xaml.g.cs
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\obj\Debug\netstandard2.0\Data Binding\SamleBataBinding.xaml.g.cs
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\obj\Debug\netstandard2.0\API\APIExp.xaml.g.cs
