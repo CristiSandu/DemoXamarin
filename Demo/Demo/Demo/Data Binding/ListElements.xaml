@@ -4,7 +4,7 @@
              x:Class="Demo.Data_Binding.ListElements">
 
     <StackLayout>
-        <Button x:Name="addToList" Clicked="addToList_Clicked"/>
+        <Button x:Name="addToList" Text="Add To List" Clicked="addToList_Clicked"/>
         <ListView x:Name="ListOfNames" ItemSelected="ListOfNames_ItemSelected">
             <ListView.ItemTemplate>
                 <DataTemplate>

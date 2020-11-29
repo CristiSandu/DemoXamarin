@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Demo.Data_Binding.SamePage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Start">
+            <Entry x:Name="addInList" Placeholder="Text... "  />
+            <Button x:Name="saveBt" Text="SAVE" Clicked="saveBt_Clicked"/>
+            <Switch x:Name="checkedswich" />
+            <ListView x:Name="elementList2" ItemSelected="elementList2_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10,10,10,10">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="{Binding Name}"/>
+                                    <Label Text="{Binding Checked}" HorizontalOptions="EndAndExpand"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+      
+    </ContentPage.Content>
+</ContentPage>

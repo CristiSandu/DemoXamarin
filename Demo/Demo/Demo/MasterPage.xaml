@@ -4,9 +4,7 @@
              x:Class="Demo.MasterPage"
              xmlns:local="clr-namespace:Demo"
              xmlns:models="clr-namespace:Demo.Models"
-             
-             
-             Title="TabulaturiRo">
+             Title="Demo">
 
     <StackLayout>
 

@@ -4,8 +4,8 @@
              x:Class="Demo.Data_Binding.PopulateList">
     <StackLayout>
         <Entry x:Name="placeHolderName" Placeholder="Name.. " Text="{Binding Name}" />
-        <Button x:Name="save" Clicked="save_Clicked"/>
-        <Button x:Name="cancel" Clicked="cancel_Clicked"/>
+        <Button x:Name="save" Text="Save" Clicked="save_Clicked"/>
+        <Button x:Name="cancel" Text="Cancel" Clicked="cancel_Clicked"/>
         <Switch x:Name="isSelected" IsToggled="{Binding Checked}"/>
     </StackLayout>
     

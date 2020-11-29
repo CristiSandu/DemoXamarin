@@ -22,5 +22,10 @@ namespace Demo
         {
             await Navigation.PushAsync(new ListElements());
         }
+
+        private async void goToAddInList_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new SamePage());
+        }
     }
 }
