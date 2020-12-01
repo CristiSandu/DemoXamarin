@@ -6,4 +6,4 @@
 - Layouts
 - [SQLite](https://github.com/cristysandu/ToDoOnSteps/blob/master/ToDoOnSteps/ToDoOnSteps/AddTask.xaml.cs) ( [Link Documentatie](https://www.nuget.org/packages/sqlite-net-pcl/) )
 - [Images Resizetizer.NT](https://www.nuget.org/packages/Resizetizer.NT/) ( [Utilizare Resizetizer.NT](https://www.youtube.com/watch?v=zcUPh5cVWaE&t=385s) )
-- [Prezentare](https://github.com/cristysandu/DemoXamarin/blob/master/Xamarin%20Introduction.pdf)
+- [Presentation](https://github.com/cristysandu/DemoXamarin/blob/master/Xamarin%20Introduction.pdf)
