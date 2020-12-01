@@ -469,3 +469,8 @@ S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.Android\obj\Debug\90\resizetize\r\draw
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.Android\obj\Debug\90\resizetize\r\drawable-xxhdpi\floppy_disk.png
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.Android\obj\Debug\90\resizetize\r\drawable-xxxhdpi\floppy_disk.png
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.Android\obj\Debug\90\resizetizer.stamp
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.Android\obj\Debug\90\resizetize\r\drawable-hdpi\album.png
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.Android\obj\Debug\90\resizetize\r\drawable-mdpi\album.png
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.Android\obj\Debug\90\resizetize\r\drawable-xhdpi\album.png
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.Android\obj\Debug\90\resizetize\r\drawable-xxhdpi\album.png
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.Android\obj\Debug\90\resizetize\r\drawable-xxxhdpi\album.png

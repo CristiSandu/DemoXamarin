@@ -62,7 +62,7 @@ namespace Demo.API
                     locationLabel.Text = "No GPS";
                 }else
                 {
-                    locationLabel.Text = $"{location.Latitude} {location.Longitude}";
+                    locationLabel.Text = $"{location.Latitude} -- {location.Longitude}";
                 }
             }catch(Exception ex)
             {

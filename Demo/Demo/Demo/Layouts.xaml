@@ -19,23 +19,17 @@
             </ScrollView>
 
 
-            <BoxView BackgroundColor="Black" HeightRequest="100"/>
-            <Entry Placeholder="Name .." HorizontalTextAlignment="Center" />
-            <Slider  />
+         
+            <Entry Placeholder="Name .." HorizontalTextAlignment="Center"/>
+           
             <Label Text="Test de Labelaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" Padding="10,0,10,0"/>
-            <!--<Switch HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
-            <TimePicker />
-            <DatePicker/>
-            <ProgressBar x:Name ="progress Bar" IsVisible="True" />
-            <Picker />
-            <ActivityIndicator Color="Green" IsRunning="True"/>
-            <Editor />
-            <Stepper />
-            <Frame BackgroundColor="Blue"/>
-            <Button Text="Next Section"/>-->
+            <BoxView BackgroundColor="Black" HeightRequest="100" WidthRequest="10"/>
             <Frame BackgroundColor="Black" Margin="10">
             <Image Source="floppy_disk.png" HeightRequest="100" BackgroundColor="White" WidthRequest="100" HorizontalOptions="Start" VerticalOptions="Start" />
             </Frame>
+            <Image Source="album.png"  HorizontalOptions="Center" VerticalOptions="Center" />
         </StackLayout>
+       
     </ScrollView>
+    
 </ContentPage>

@@ -315,3 +315,6 @@ S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\obj\x86\Debug\resizetize\r\Assets\
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\obj\x86\Debug\resizetize\r\Assets\floppy_disk.scale-200.png
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\obj\x86\Debug\resizetize\r\Assets\floppy_disk.scale-400.png
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\obj\x86\Debug\resizetizer.stamp
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\obj\x86\Debug\resizetize\r\Assets\album.scale-100.png
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\obj\x86\Debug\resizetize\r\Assets\album.scale-200.png
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\obj\x86\Debug\resizetize\r\Assets\album.scale-400.png

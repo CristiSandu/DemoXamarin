@@ -550,6 +550,15 @@
     <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\obj\x86\Debug\resizetize\r\Assets\album.scale-100.png">
+      <PackagePath>album.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\obj\x86\Debug\resizetize\r\Assets\album.scale-200.png">
+      <PackagePath>album.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\obj\x86\Debug\resizetize\r\Assets\album.scale-400.png">
+      <PackagePath>album.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.UWP\obj\x86\Debug\resizetize\r\Assets\floppy_disk.scale-100.png">
       <PackagePath>floppy_disk.scale-100.png</PackagePath>
     </AppxPackagedFile>

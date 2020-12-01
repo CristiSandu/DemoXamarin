@@ -61,3 +61,6 @@ S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.iOS\obj\iPhoneSimulator\Debug\XamlC.st
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.iOS\obj\iPhoneSimulator\Debug\Demo.iOS.csproj.CopyComplete
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.iOS\obj\iPhoneSimulator\Debug\Demo.iOS.exe
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.iOS\obj\iPhoneSimulator\Debug\Demo.iOS.pdb
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.iOS\obj\iPhoneSimulator\Debug\resizetize\r\album.png
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.iOS\obj\iPhoneSimulator\Debug\resizetize\r\album@2x.png
+S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo.iOS\obj\iPhoneSimulator\Debug\resizetize\r\album@3x.png

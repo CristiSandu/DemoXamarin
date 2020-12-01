@@ -2,7 +2,6 @@ S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.deps.jso
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.dll
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\bin\Debug\netstandard2.0\ref\Demo.dll
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.pdb
-S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.csprojAssemblyReference.cache
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\obj\Debug\netstandard2.0\App.xaml.g.cs
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 S:\Cristi\App-Xamarin\Demo\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfoInputs.cache

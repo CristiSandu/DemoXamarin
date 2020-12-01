@@ -6,9 +6,10 @@
         <StackLayout>
             <Label Text="Turn Flash Light!"/>
             <Switch x:Name="enableFlash" PropertyChanged="enableFlash_PropertyChanged"/>
-            <StackLayout>
+            <StackLayout Padding="10,10,10,10">
                 <Label x:Name="locationLabel" />
                 <Button x:Name="getLocation" Text="GetLocation" Clicked="getLocation_Clicked" />
+                <BoxView BackgroundColor="White"  />
             </StackLayout>
         </StackLayout>
         
